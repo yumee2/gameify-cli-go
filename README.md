@@ -42,9 +42,9 @@ gameify   # запускает главное меню
   "ExpRequired": 100,
   "ExpCurrent": 0,
   "DailyTasks": [
-    {"Title": "Push ups", "IsPomodoro": false, "CountRequired": 30, "CountCurrent": 0, "IsCompleted": false},
-    {"Title": "Squats", "IsPomodoro": false, "CountRequired": 15, "CountCurrent": 0, "IsCompleted": false},
-    {"Title": "Outdoor run", "IsPomodoro": true, "CountRequired": 45, "CountCurrent": 0, "IsCompleted": false}
+    {"Title": "Push ups", "CountRequired": 30, "CountCurrent": 0, "IsCompleted": false},
+    {"Title": "Squats", "CountRequired": 15, "CountCurrent": 0, "IsCompleted": false},
+    {"Title": "Outdoor run","CountRequired": 45, "CountCurrent": 0, "IsCompleted": false}
   ]
 }
 ```
